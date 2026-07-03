@@ -1,2 +1,2 @@
 print("Added first line")
-print("Work completed")
+print("Work Completed")
